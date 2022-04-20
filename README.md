@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AndMaoHG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hola, soy Mauricio Hernandez (@AndMaoHG) y te invito a que conozcas las actividades y proyectos que desarrollaré a lo largo del aprendizaje continuo en este agradable mundo de la programación.
 
-<!---
-AndMaoHG/AndMaoHG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Redes sociales: 
+
+- Instagram: @andres_m_hernandez 
+
+- Facebook:@andresHernández Gómez
+
+- Twitter: @Maurici22121759 
+
+- Telegrann: @AndresM40 
+
+- Reddit: N_Amhg0431
