@@ -8,6 +8,6 @@ Redes sociales:
 
 - Twitter: @Maurici22121759 
 
-- Telegrann: @AndresM40 
+- Telegram: @AndresM40 
 
 - Reddit: N_Amhg0431
